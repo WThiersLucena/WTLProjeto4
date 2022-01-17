@@ -48,13 +48,5 @@ String day(){
 							     out.println("nao e segunda feira");
 							 }%> </h1>
 
-
-
-
-
-
-
-
-
 </body>
 </html>
